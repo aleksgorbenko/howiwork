@@ -4,7 +4,7 @@
 
 This is an evolving document that outlines the tools, workflows, and philosophies I use as a Software Engineer.
 
-It includes how I organize my time, communicate, lead teams, manage projects, and work efficiently.
+It includes how I organise my time, communicate, lead teams, manage projects, and work efficiently.
 
 ---
 
