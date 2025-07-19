@@ -11,12 +11,12 @@ It includes how I organise my time, communicate, lead teams, manage projects, an
 ## 📑 Table of Contents
 
 - [🧠 Philosophy](#-philosophy)
-- [📅 Planning & Productivity](#-planning--productivity)
+- [📅 Planning & Tasks](#-planning--productivity)
 - [🛠️ Tools & Automation](#️-tools--automation)
-- [👥 Team Management](#-team-management)
-- [📣 Communication & Collaboration](#-communication--collaboration)
+- [👥 Team Management & Communication](#-team-management--collaboration)
 - [🧪 Development Practices](#-development-practices)
 - [📁 File & Project Organization](#-file--project-organization)
+- [‼️ Incident Resolution & Debugging](#-incident-resolution--debugging)
 - [📚 Continuous Learning](#-continuous-learning)
 
 ---
