@@ -98,6 +98,9 @@ It includes how I organize my time, communicate, lead teams, manage projects, an
 - Saved log searches
 - Links to log searches in incident message attributes
 - Links to runbooks in incident message attributes
+- Internal cli tooling to help investigation and resolution
+- Blameless post-mortems
+- Incident rehearsals
 
 ---
 
