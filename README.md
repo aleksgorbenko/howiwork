@@ -1,6 +1,6 @@
 # 🛠️ How I Work
 
-👋 Hi there!
+👋 Hello there!
 
 This is an evolving document that outlines the tools, workflows, and philosophies I use as a Software Engineer.
 
@@ -41,7 +41,7 @@ It includes how I organise my time, communicate, lead teams, manage projects, an
 - Daily 10-min morning planning + 10-min shutdown ritual
 - Weekly personal and team analysis on Friday
 - [**Obsidian**](https://obsidian.md) for all my notes, I keep a bootstrap template in my [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook) repo
-- Kanban board with a few columns: Next, Doing, Blocked, Done and a few `product` and `type` labels
+- Kanban board with a few columns: Backlog, Next, Doing, Blocked, Done and a few `product` and `type` labels
 - Save links to chat messages & context in 2do's
 
 ---
@@ -81,6 +81,7 @@ It includes how I organise my time, communicate, lead teams, manage projects, an
 - Git [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - Visualise everything - diagrams, flows, research material - it really helps
 - Comment if code doesn't explain the Why
+- Lightweight estimates in weeks with optimistic/pessimistic scenarios
 
 ---
 
