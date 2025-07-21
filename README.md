@@ -6,6 +6,8 @@ This is an evolving document that outlines the tools, workflows, and philosophie
 
 It includes how I organise my time, communicate, lead teams, manage projects, and work efficiently.
 
+To learn more about about me - see [this page](https://github.com/aleksgorbenko/whoami).
+
 ---
 
 ## 📑 Table of Contents
@@ -113,5 +115,9 @@ It includes how I organise my time, communicate, lead teams, manage projects, an
 - Books
 
 ---
+
+### Links
+- 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
+- 👤 [Who am I and My Professional Path](https://github.com/aleksgorbenko/whoami)
 
 Thanks for reading!
