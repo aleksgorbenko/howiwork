@@ -40,7 +40,7 @@ It includes how I organise my time, communicate, lead teams, manage projects, an
 - Timeboxing in Calendar
 - Daily 10-min morning planning + 10-min shutdown ritual
 - Weekly personal and team analysis on Friday
-- [**Obsidian**](https://obsidian.md) for all my notes, I keep a bootstrap template in my [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook) repo
+- [**Obsidian**](https://obsidian.md) for all my notes. Bootstrap repo - [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook)
 - Kanban board with a few columns: Backlog, Next, Doing, Blocked, Done and a few `product` and `type` labels
 - Save links to chat messages & context in 2do's
 
@@ -87,7 +87,7 @@ It includes how I organise my time, communicate, lead teams, manage projects, an
 
 ## 📁 File & Project Organization
 
-- Template everything: PR, ADRs, RFC, 101s, service README everything (my templates live in [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook) and be pasted by snippets)
+- Template everything: PR, ADRs, RFC, 101s, service README, etc. Templates live in [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook) repo
 - Runbooks in relevant repo wiki
 - Simple consistent structure of information everywhere: local/cloud shared files, Obsidian notes, shared boards&diagrams in Lucid, 2do Project names
 
@@ -107,8 +107,9 @@ It includes how I organise my time, communicate, lead teams, manage projects, an
 
 ## 📚 Continuous Learning
 
-- Weekly "Tech Newsletters" reading - [my Substack reading list](https://substack.com/@aleksgbko/reads)
-- Anki flashcards
+- [Zettelkasten](https://zettelkasten.de/overview/) + [Obsidian](https://obsidian.md) - personal knowledge management
+- [Anki](https://ankiweb.net) - flashcards
+- [My Substack Reading List](https://substack.com/@aleksgbko/reads) - weekly "Tech Newsletters" reading
 - Books
 
 ---
