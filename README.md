@@ -10,7 +10,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 
 ## 📑 Table of Contents
 
-- [🧠 Philosophy](#philosophy)
+- [🧠 Philosophy](#-philosophy)
 - [📅 Planning & Tasks](#planning--productivity)
 - [🛠️ Tools & Automation](#️-tools--automation)
 - [👥 Team Management & Communication](#team-management--collaboration)
