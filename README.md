@@ -11,13 +11,13 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 ## 📑 Table of Contents
 
 - [🧠 Philosophy](#-philosophy)
-- [📅 Planning & Tasks](#planning--productivity)
+- [📅 Planning & Tasks](#-planning--productivity)
 - [🛠️ Tools & Automation](#️-tools--automation)
-- [👥 Team Management & Communication](#team-management--collaboration)
-- [🧪 Development Practices](#development-practices)
-- [📁 File & Project Organization](#file--project-organization)
-- [‼️ Incident Resolution & Debugging](#incident-resolution--debugging)
-- [📚 Continuous Learning](#continuous-learning)
+- [👥 Team Management & Communication](#-team-management--collaboration)
+- [🧪 Development Practices](#-development-practices)
+- [📁 File & Project Organization](#-file--project-organization)
+- [‼️ Incident Resolution & Debugging](#-incident-resolution--debugging)
+- [📚 Continuous Learning](#-continuous-learning)
 
 ---
 
