@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Aleks and this is How I Work 🛠️
+s# 👋 Hello there! I'm Aleks and this is How I Work 🛠️
 
 This is an evolving document that outlines the tools, workflows, and philosophies I use as a Software Engineer.
 
@@ -116,6 +116,8 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 
 ### Links
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
+- 💻 [GitHub Profile](https://github.com/aleksgorbenko)
 - 👤 [Who am I and My Professional Path](https://github.com/aleksgorbenko/whoami)
+- 📝 [Blog](https://aleksgorbenko.dev)
 
 Thanks for reading!
