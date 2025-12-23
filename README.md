@@ -26,23 +26,24 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - Outcomes > output
 - People-first - [Peopleware](https://www.amazon.co.uk/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
 - Ask "What are we trying to achieve here and why?" often
-- KISS - reduce cognitive load whenever possible, in code, in written communication, in file structures
-- Help educate non-technical teams, use analogies and visualisations for explanations
-- Measure progress. I recently discovered [DX Core 4](https://getdx.com/news/introducing-the-dx-core-4/), I haven't experienced it yet, but would love an opportunity to implement it
+- KISS - reduce cognitive load wherever and whenever possible, in code, in written communication, in file structures
 - Take of your tools and your tools will take care of you
+- Help educate non-technical teams, use analogies and visualisations for explanations
+- Don't outsource intelligence to AI. Use AI to learn intelligently
 - If it’s not documented, it doesn’t scale
+- Measure progress. I recently discovered [DX Core 4](https://getdx.com/news/introducing-the-dx-core-4/), I haven't experienced it yet, but would love an opportunity to implement it
 
 ---
 
 ## 📅 Planning & Tasks
 
-- _lightweight_ GTD with [2Do](https://www.2doapp.com/). Smart Lists I have: active projects, service, every person I regularly interact with
+- _lightweight_ GTD with [2Do](https://www.2doapp.com/). Smart Lists I have: `active` projects, every `service` our team owns, every person I regularly interact with
 - Timeboxing in Calendar
 - Daily 10-min morning planning + 10-min shutdown ritual
 - Weekly personal and team analysis on Friday
-- [**Obsidian**](https://obsidian.md) for all my notes. Bootstrap repo - [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook)
-- Kanban board with a few columns: Backlog, Next, Doing, Blocked, Done and a few `product` and `type` labels
-- Save links to chat messages & context in 2do's
+- [**Obsidian**](https://obsidian.md) for all my notes. My bootstrap repo - [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook)
+- Kanban board with a few columns: `Backlog`, `Next`, `Doing`, `Blocked`, `Done` and a few `product` and `type` labels
+- Save links to chat messages & context in 2Do's
 
 ---
 
@@ -51,15 +52,15 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - [**Alfred**](https://alfred.app) for bookmarks, clipboard history, file search, snippets, repo navigation, and many more workflows that allow me to spend less time searching and more time doing
 - [**Keyboard Maestro**](https://www.keyboardmaestro.com) for macros, advanced snippets
 - Apple Shortcuts as alternative for Keyboard Maestro + usage on iOS
-- [**iTerm**]() for terminal
+- [**Ghostty**](https://ghostty.org) for terminal
 - [**Magnet**](https://magnet.crowdcafe.com) for window management
-- My [**dotfiles**](https://github.com/aleksgorbenko/dotfiles) for shell aliases, functions, etc.
+- My [**dotfiles**](https://github.com/aleksgorbenko/dotfiles) for shell aliases, functions, keybindings, app configs, etc.
 
 ---
 
 ## 👥 Team Management & Communication
 
-- Daily team meetings to discuss any blockers > classic standup meeting
+- Daily team meetings to discuss any blockers > classic stand-up meeting
 - 1:1 format (agenda + follow-up)
 - New team-member onboarding checklist template
 - Quarterly team member feedback cycles
@@ -68,7 +69,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - Regular remote/in-person socials to decompress and non-shop talk
 - **Genuine** personal praise
 - Celebrate small wins and share them
-- Async-first: written proposals > meetings
+- Async-first: written docs > meetings
 - Slack Channels: `team`, `team-private`, `team-support`
 
 ---
@@ -79,17 +80,17 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - Architectural decision records (ADR)
 - CI/CD
 - Git [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- Visualise everything - diagrams, flows, research material - it really helps
-- Comment if code doesn't explain the Why
+- Visualise everything - diagrams, flows, research material - it really helps. My preference is [Lucid](https://www.lucidchart.com/)
+- Comment if code doesn't explain the Why or is too complex to follow
 - Lightweight estimates in weeks with optimistic/pessimistic scenarios
 
 ---
 
 ## 📁 File & Project Organization
 
-- Template everything: PR, ADRs, RFC, 101s, service README, etc. Templates live in [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook) repo
+- Template everything: PR, ADRs, RFC, 101s, service README, etc. My templates live in [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook) repo
 - Runbooks in relevant repo wiki
-- Simple consistent structure of information everywhere: local/cloud shared files, Obsidian notes, shared boards&diagrams in Lucid, 2do Project names
+- Simple consistent structure of information everywhere: local/cloud shared files, Obsidian notes, shared boards & diagrams in [Lucid](https://www.lucidchart.com/), 2Do Project names
 
 ---
 
@@ -115,6 +116,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 ---
 
 ### Links
+
 - 🧰 [LinkedIn](https://www.linkedin.com/in/aleks-gorbenko-software-engineer/)
 - 💻 [GitHub Profile](https://github.com/aleksgorbenko)
 - 👤 [Who am I and My Professional Path](https://github.com/aleksgorbenko/whoami)
