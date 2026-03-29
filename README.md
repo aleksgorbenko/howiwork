@@ -78,6 +78,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 
 ## 🧪 Development Practices
 
+- Currently experiment with Spec Driven Development
 - TDD
 - Architectural decision records (ADR)
 - CI/CD
