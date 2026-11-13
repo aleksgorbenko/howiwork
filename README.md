@@ -92,17 +92,17 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 
 ## 🤖 AI-Assisted Development
 
-- [**Claude Code**](https://www.anthropic.com/claude-code) as my main coding agent, [Codex](https://openai.com/codex/) as a second one
-- I decide, the agent executes: architecture decisions, ADRs, merges and pushes always go through me
-- Every repo has an `AGENTS.md` with never-break rules, each linking to the ADR behind it
-- Shared rules and skills live in my [**dotfiles**](https://github.com/aleksgorbenko/dotfiles): short always-on rules (coding style, testing, git) and on-demand skills for repeated workflows (releases, marketing images, Alfred workflows)
-- Every lesson or correction goes into a rule or skill, so the same mistake doesn't happen twice
-- Agents build, test and lint only through `make` targets - the same checks I and CI run
-- Strictest linters and tests first - the agent gets fast, objective feedback instead of my opinion
-- Current library docs via [Context7](https://context7.com) instead of the model's memory
-- MCP servers for Xcode, screenshots and design files, so the agent can build, run and look at the app itself
-- I verify every user-facing change in the running app before it's committed
-- Small branches, one change each, reviewed before merge
+- Human-reviewed code before merge. It is not a bottleneck, it is human ownership of software
+- Optimise LLM usage for human-review and judgement. Small sequential focused changes beats intense multi-tasking across repos/projects
+- Code contributions are made by engineers only otherwise ownership is next to impossible
+- Home-grown agent skills and rules shared across team - not copied/exported from elsewhere. Mine live in [**dotfiles**](https://github.com/aleksgorbenko/dotfiles)
+- [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) from the get-to. Decide and specify Entities, Contexts, Ubiquitous language before writing any code
+- Design interfaces and tests first, implement later
+- Agents go through `make` targets only - the same checks I and CI run
+- Strictest linters for all file types, grammar and syntax
+- Maximise building deterministic logic with non-deterministic LLMs. Lowers risk when LLM is unavailable
+- Current library docs via [Context7](https://context7.com)
+- Snippet collection for often-typed command and [Handy](https://handy.computer) for private, offline dictation
 
 ---
 
