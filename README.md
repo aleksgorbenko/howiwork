@@ -15,6 +15,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - [👥 Team Management & Communication](#-team-management--communication)
 - [🤝 Conflict Resolution & Disagreements](#-conflict-resolution--disagreements)
 - [🧪 Development Practices](#-development-practices)
+- [🤖 AI-Assisted Development](#-ai-assisted-development)
 - [📁 File & Project Organisation](#-file--project-organization)
 - [‼️ Incident Resolution & Debugging](#️-incident-resolution--debugging)
 - [🛠️ Tools & Automation](#️-tools--automation)
@@ -86,6 +87,22 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - Visualise everything - diagrams, flows, research material - it really helps. My preference is [Lucid](https://www.lucidchart.com/)
 - Comment if code doesn't explain the Why or is too complex to follow
 - Lightweight estimates in weeks with optimistic/pessimistic scenarios
+
+---
+
+## 🤖 AI-Assisted Development
+
+- [**Claude Code**](https://www.anthropic.com/claude-code) as my main coding agent, [Codex](https://openai.com/codex/) as a second one
+- I decide, the agent executes: architecture decisions, ADRs, merges and pushes always go through me
+- Every repo has an `AGENTS.md` with never-break rules, each linking to the ADR behind it
+- Shared rules and skills live in my [**dotfiles**](https://github.com/aleksgorbenko/dotfiles): short always-on rules (coding style, testing, git) and on-demand skills for repeated workflows (releases, marketing images, Alfred workflows)
+- Every lesson or correction goes into a rule or skill, so the same mistake doesn't happen twice
+- Agents build, test and lint only through `make` targets - the same checks I and CI run
+- Strictest linters and tests first - the agent gets fast, objective feedback instead of my opinion
+- Current library docs via [Context7](https://context7.com) instead of the model's memory
+- MCP servers for Xcode, screenshots and design files, so the agent can build, run and look at the app itself
+- I verify every user-facing change in the running app before it's committed
+- Small branches, one change each, reviewed before merge
 
 ---
 
