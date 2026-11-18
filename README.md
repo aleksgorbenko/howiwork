@@ -71,8 +71,8 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - Seek to understand before seeking to be understood
 - Align around business needs and environment, sometimes disagreements stem from misalignment
 - Use data, concrete examples, and visual aids (diagrams, whiteboard sketches) to ground discussions
-- Assume good intent first — most disagreements stem from different values, not bad intentions
-- Separate the problem from the person — critique the approach, not the engineer
+- Assume good intent first - most disagreements stem from different values, not bad intentions
+- Separate the problem from the person - critique the approach, not the engineer
 - Prefer 1:1 conversations over public channels for sensitive disagreements
 
 ---
