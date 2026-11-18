@@ -4,7 +4,7 @@ This is an evolving document that outlines the tools, workflows, and philosophie
 
 It includes how I organise my time, communicate, lead teams, manage projects, and work efficiently.
 
-To learn more about about me - see [this page](https://github.com/aleksgorbenko/whoami).
+To learn more about me - see [this page](https://github.com/aleksgorbenko/whoami).
 
 ---
 
@@ -16,7 +16,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - [🤝 Conflict Resolution & Disagreements](#-conflict-resolution--disagreements)
 - [🧪 Development Practices](#-development-practices)
 - [🤖 AI-Assisted Development](#-ai-assisted-development)
-- [📁 File & Project Organisation](#-file--project-organization)
+- [📁 File & Project Organisation](#-file--project-organisation)
 - [‼️ Incident Resolution & Debugging](#️-incident-resolution--debugging)
 - [🛠️ Tools & Automation](#️-tools--automation)
 - [📚 Continuous Learning](#-continuous-learning)
@@ -29,7 +29,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - People-first - [Peopleware](https://www.amazon.co.uk/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
 - Ask "What are we trying to achieve here and why?" often
 - KISS - reduce cognitive load wherever and whenever possible, in code, in written communication, in file structures
-- Take of your tools and your tools will take care of you
+- Take care of your tools and your tools will take care of you
 - Help educate non-technical teams, use analogies and visualisations for explanations
 - Don't outsource intelligence to AI. Use AI to learn intelligently
 - If it’s not documented, it doesn’t scale
@@ -106,7 +106,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 
 ---
 
-## 📁 File & Project Organization
+## 📁 File & Project Organisation
 
 - Template everything: PR, ADRs, RFC, 101s, service README, etc. My templates live in [Engineering Notebook](https://github.com/aleksgorbenko/engineering-notebook) repo
 - Runbooks in relevant repo wiki
@@ -120,7 +120,7 @@ To learn more about about me - see [this page](https://github.com/aleksgorbenko/
 - Saved log searches
 - Links to log searches in incident message attributes
 - Links to runbooks in incident message attributes
-- Internal cli tooling to help investigation and resolution
+- Internal CLI tooling to help investigation and resolution
 - Blameless post-mortems
 - Incident rehearsals
 

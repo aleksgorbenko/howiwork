@@ -1,0 +1,17 @@
+ADRs
+Aleks
+Anki
+configs
+dotfiles
+etc
+Ghostty
+Kanban
+keybindings
+linters
+LLMs
+Peopleware
+runbooks
+Runbooks
+Substack
+Timeboxing
+Zettelkasten
